@@ -3,6 +3,7 @@ Miguel Oyarzo Altamirano
 PEC2 de curso analítica escalable. UAH
 
 Directorios
+
 1-Pipeline: este contiene un archivo ipynb y la base de datos de titanic.csv.
 Se implementan dos pipeline, uno de transformación de variables y otra de implementación de un modelo de regresión logística para predecir si los pasajeros sobreviven o no, en base a las variables de clase, sexo, edad e importe pagado.
 
