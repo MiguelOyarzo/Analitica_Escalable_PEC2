@@ -18,6 +18,11 @@ En la segunda parte, se utiliza la biblioteca Flask para construir una aplicaci�
 
 Para la ejecución del contenedor: docker run -p 5000:5000 tenzingdorje/ml-appmo:tag
 
+![image](https://github.com/MiguelOyarzo/Analitica_Escalable_PEC2/assets/85257184/5644d380-efbd-4f07-98e4-c10608e88081)
+
+![image](https://github.com/MiguelOyarzo/Analitica_Escalable_PEC2/assets/85257184/043c696f-4e62-4a99-af9b-8bda281c7842)
+
+
 La aplicación de Flask se empaqueta en una imagen de Docker, se publica en Docker Hub y se puede descargar y ejecutar en un contenedor Docker utilizando comandos similares a los de la primera parte.
 
 Para publicarlo en DockerHub se uso:  docker push tenzingdorje/ml-appmo:tag
